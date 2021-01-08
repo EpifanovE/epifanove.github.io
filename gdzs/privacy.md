@@ -50,11 +50,11 @@ Google anonymizes the log data by removing part of the IP address (after 9 month
 cookie information (after 18 months)
 
 Online resources:
-* Privacy Policy                https://www.google.com/policies/technologies/ads/
-* Opt out                       https://www.google.com/settings/ads
-* Service Information           https://privacy.google.com/businesses/adsservices/
-* Partner policy                https://policies.google.com/technologies/partner-sites
-* Ad technology providers       https://support.google.com/admob/answer/9012903
+* [Privacy Policy](https://www.google.com/policies/technologies/ads/)
+* [Opt out](https://www.google.com/settings/ads)
+* [Service Information](https://privacy.google.com/businesses/adsservices/)
+* [Partner policy](https://policies.google.com/technologies/partner-sites)
+* [Ad technology providers](https://support.google.com/admob/answer/9012903)
 
 
 ### 3.2 Google Play Services
@@ -112,7 +112,7 @@ actions.
 ## 7. Distribution
 
 The only official channel for distribution of this app are:
-* Google Play Store                https://play.google.com/
+* [Google Play Store](https://play.google.com/)
 
 Any other mode of distribution is not official and thus, is not maintained by the developer.
 This privacy policy is effective to distribution made on official channel only.
